@@ -1,5 +1,6 @@
 # StockDataAnalysis
-fddbh
-fdbdt
+fddbh  \n
+
+fdbdt \n
 m,kuigjg
 vbrfgssrdt
